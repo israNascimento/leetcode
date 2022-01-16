@@ -1,7 +1,7 @@
 import org.junit.Test
 import kotlin.test.assertEquals
 
-class MergeSortedLists {
+class MergeSortedLists20 {
     data class ListNode(
         val `val`: Int,
         var next: ListNode? = null
